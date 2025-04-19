@@ -27,5 +27,5 @@ Estou cursando **Desenvolvimento de Software Multiplataformas** na **Fatec de It
 
 Obrigado por visitar meu perfil! 😄
 
-(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJxamk4bHVlbGdoY3hvamQyemt2ZnM1MGd2cTFsejJ2czVlOTg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tyELXElL6wFj2/giphy.gif)
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJxamk4bHVlbGdoY3hvamQyemt2ZnM1MGd2cTFsejJ2czVlOTg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tyELXElL6wFj2/giphy.gif
 
